@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GitDemo",
+    "\\GitDemo\\GitDemo"
   ],
-  "SelectedNode": "\\C:\\Users\\tsati\\OneDrive - Cégep de Trois-Rivières\\AUTUMN 2022\\programmation intergraphique\\GITHUB",
+  "SelectedNode": "\\GitDemo\\GitDemo\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
